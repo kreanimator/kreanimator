@@ -1,10 +1,8 @@
-## Primary language: Python 🐍
-Used across AWS Lambda, data pipelines, automation, and backend services.
+## Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreanimator&layout=compact&langs_count=10)
+**Languages**
+Python · GDScript · TypeScript · JavaScript · Java · C# · SQL
 
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kreanimator&layout=compact&hide=java)
 
 
