@@ -20,5 +20,4 @@
 - **[SmartCross](https://github.com/kreanimator/smartcross):** a simulated traffic light that counts cars with computer vision alone and decides who goes next. Built with Python, YOLO11, ByteTrack, Panda3D and MQTT.
 - **[sosw](https://github.com/sosw/sosw):** Serverless Orchestrator of Serverless Workers for AWS. I'm an open-source contributor.
 - **[Godot_AWS_Client](https://github.com/kreanimator/Godot_AWS_Client):** a Godot game client backed by AWS, with Cognito sign-in and DynamoDB storage defined in SAM templates.
-- **[aws_practice](https://github.com/kreanimator/aws_practice):** serverless applications on AWS Lambda.
-- **[TheCrash](https://github.com/kreanimator/TheCrash):** a post-apocalyptic RPG written in Java2D.
+- **[AniMate](https://github.com/kreanimator/AniMate):** a Blender plugin, in active development, that animates humanoid rigs from MediaPipe motion capture of pose, face and hands.
